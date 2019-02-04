@@ -1,6 +1,6 @@
 [kubernetes-master-nodes]
-kubernetes-master.learnitguide.net ansible_host=192.168.2.1
+master1.AIB-INC.cloud ansible_host=10.186.105.209
 
 [kubernetes-worker-nodes]
-kubernetes-worker1.learnitguide.net ansible_host=192.168.2.2
-kubernetes-worker2.learnitguide.net ansible_host=192.168.2.3
+worker-1.AIB-INC.cloud ansible_host=10.186.105.223
+worker-2.AIB-INC.cloud ansible_host=10.186.105.202
