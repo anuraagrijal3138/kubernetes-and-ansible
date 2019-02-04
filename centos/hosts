@@ -1,6 +1,6 @@
 [kubernetes-master-nodes]
-master1.AIB-INC.cloud ansible_host=10.186.105.209
+master1 ansible_host=10.186.105.209
 
 [kubernetes-worker-nodes]
-worker-1.AIB-INC.cloud ansible_host=10.186.105.223
-worker-2.AIB-INC.cloud ansible_host=10.186.105.202
+worker-1 ansible_host=10.186.105.223
+worker-2 ansible_host=10.186.105.202
